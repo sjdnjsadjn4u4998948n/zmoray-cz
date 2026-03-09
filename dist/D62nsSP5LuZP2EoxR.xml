@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <url>
+    <loc>https://www.zmoray.cz/</loc>
+    <xhtml:link rel="alternate" hreflang="x-default"
+                href="https://www.zmoray.cz/" />
+    <xhtml:link rel="alternate" hreflang="cs-CZ"
+                href="https://ceske-online-casino.zmoray.cz/" />
+  </url>
+
+  <url>
+    <loc>https://ceske-online-casino.zmoray.cz/</loc>
+    <xhtml:link rel="alternate" hreflang="x-default"
+                href="https://www.zmoray.cz/" />
+    <xhtml:link rel="alternate" hreflang="cs-CZ"
+                href="https://ceske-online-casino.zmoray.cz/" />
+  </url>
+
+</urlset>
